@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Localiza](https://localiza.com/)
 - 📫 How to reach me: raqcalazans@gmail.com  
-- 💬 Ask me about: <b>Swift, Kotlin, Flutter, iOS and Android.</b>  
+- 💬 Ask me about: <b>iOS, Android, Swift, Kotlin and Flutter.</b>
 
 ### Languages and Tools
 <p align="left">

@@ -10,7 +10,8 @@
   <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />-
   <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />- 
   <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />-
-  <img height=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />- 
+  <img height=45px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />-
+  <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />-
   <img height=55px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />-
   <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </p>

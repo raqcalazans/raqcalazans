@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raquel Calazans</h1>
 <h5 align="center">A passionate Mobile Developer from Brazil.</h5>
 
-- 🔭 I’m currently working on: [Localiza](https://localiza.com/)
 - 📫 How to reach me: raqcalazans@gmail.com  
-- 💬 Ask me about: <b>iOS, Android, Swift, Kotlin and Flutter.</b>
+- 💬 Ask me about: <b>iOS, Mobile, Software Engineering, SCRUM, MVVM.</b>
 
 ### Languages and Tools
 <p align="left">
